@@ -13,8 +13,8 @@ Term: Spring 2018
 	+ Utomo, Michael
 	+ Wang, Jingyi
 + Project summary: The major work of this project is to implement, evaluate and compare algorithms for Collaborative Filtering. First, we implement the memory-based algorithms. We tried three kinds of similarity weights: Pearson correlation, vector similarity and SimRank. Then we applied variance weighting to Pearson correlation. And the method we used to select neigbors is weight threshold. Next, we did the model-based algorithm. We implemented the EM algorithm in order to solve the cluster model. Here are our results for the performances of these algorithms:
-![image](memory.png)
-![image](model.png)
+![image](figs/P1.png)
+![image](figs/P2.png)
 
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
