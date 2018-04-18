@@ -34,8 +34,9 @@ Term: Spring 2018
 4. Schein, A. I., Popescul, A., Ungar, L. H., & Pennock, D. M. (2002, August). Methods and metrics for cold-start recommendations. In Proceedings of the 25th annual international ACM SIGIR conference on Research and development in information retrieval(pp. 253-260). ACM.
 5. Su, X., & Khoshgoftaar, T. M. (2009). A survey of collaborative filtering techniques. Advances in artificial intelligence, 2009, 4.
 6. Chengliang Tang. Notes on Cluster Model. https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk12-notes_cluster/document.pdf
-7. https://github.com/TZstatsADS/Fall2017-project4-grp5/blob/master/doc/main.Rmd
-8. https://github.com/TZstatsADS/Fall2017-project4-grp1
+7. Simrank: https://ds3lab.org/wp-content/uploads/2017/07/vldb2017_zhang.pdf
+8. https://github.com/TZstatsADS/Fall2017-project4-grp5/blob/master/doc/main.Rmd
+9. https://github.com/TZstatsADS/Fall2017-project4-grp1
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
