@@ -18,7 +18,7 @@ Term: Spring 2018
 
 	
 + Contribution statement:
-	+ Cao, Xinlei
+	+ Cao, Xinlei: Finished the model based algorithm, coded the EM cluster model in R, predicted the result and writed the evaluation part(rank score) of the EM model, tried the different number of clusters to find the optimal parameters. 
 	+ Guo, Xiaoxiao: Processed and cleaned Movie data; Implemented memory-based Algorithms on Movie Dataset(wrote similarity weights, variance weighting, selecting neighbors, prediction, MAE, ROC functions); wrote README.md, main.new.Rmd and memory.new.R document and presentation ppt.
 	+ Li, Xinrou: Processed and cleaned Movie data. wrote Simrank function and calculated its MAE and ROC error, combined with neighbor select function. wrote part of main.new.Rmd and memory.new.R document.
 	+ Utomo, Michael
