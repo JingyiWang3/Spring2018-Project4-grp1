@@ -26,7 +26,8 @@ Term: Spring 2018
 	+ Guo, Xiaoxiao: Processed and cleaned Movie data; Implemented memory-based Algorithms on Movie Dataset(wrote similarity weights, variance weighting, selecting neighbors, prediction, MAE, ROC functions); wrote README.md, main.new.Rmd and memory.new.R document and presentation ppt.
 	+ Li, Xinrou: Processed and cleaned Movie data. wrote Simrank function and calculated its MAE and ROC error, combined with neighbor select function. wrote part of main.new.Rmd and memory.new.R document.
 	+ Utomo, Michael: Developed model based algorithm: ER, prediction matrix, and that is used to calculate the ranked score for each number of clusters
-	+ Wang, Jingyi
+	+ Wang, Jingyi: Processed and cleaned MS dataset. Implemented memory-based algorithm on MS dataset(wrote sim_weights_ms, sim_var_ms, pred.ms function) and evaluated the algorithm using rank score. Wrote part of main.new.Rmd and memory.new.R document.
+
 + Reference:
 1. Breese, J. S., Heckerman, D., & Kadie, C. (1998, July). Empirical analysis of predictive algorithms for collaborative filtering. In Proceedings of the Fourteenth conference on Uncertainty in artificial intelligence (pp. 43-52). Morgan Kaufmann Publishers Inc..
 2. Herlocker, J. L., Konstan, J. A., Borchers, A., & Riedl, J. (1999, August). An algorithmic framework for performing collaborative filtering. In Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval (pp. 230-237). ACM.
